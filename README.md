@@ -2,7 +2,7 @@
 
 **Status:** 🚧 In Progress  
 **Author:** sloucks623  
-**Repository:** [Lab SOC Helpdesk](https://github.com/sloucks623/lab-soc-helper)|[My Portfolio](https://stevenloucks.tech) | [LinkedIn](https://www.linkedin.com/in/steven-loucks)
+**Repository:** [Lab SOC Helpdesk](https://github.com/sloucks623/lab-soc-helper) | [My Portfolio](https://stevenloucks.tech) | [LinkedIn](https://www.linkedin.com/in/steven-loucks)
 
 
 ---
