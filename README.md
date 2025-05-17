@@ -2,7 +2,7 @@
 
 **Status:** 🚧 In Progress  
 **Author:** sloucks623  
-**Repository:** [Lab SOC Helper](https://github.com/sloucks623/lab-soc-helper)
+**Repository:** [Lab SOC Help Desk](https://github.com/sloucks623/lab-soc-helper)
 
 ---
 
