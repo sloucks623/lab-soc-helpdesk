@@ -1,8 +1,8 @@
-# 🧰 Lab SOC Helper
+# 🧰 Lab SOC Help Desk
 
 **Status:** 🚧 In Progress  
 **Author:** sloucks623  
-**Repository:** [Lab SOC Help Desk](https://github.com/sloucks623/lab-soc-helper)
+**Repository:** [Lab SOC Helpdesk](https://github.com/sloucks623/lab-soc-helper)
 
 ---
 
