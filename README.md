@@ -48,3 +48,5 @@ This repository is dedicated to developing a Security Operations Center (SOC) au
 [🔗 Return to My Portfolio](https://sloucks623.github.io)
 ---
 📋 **Professional Standards**: [ITIL 4 Service Management Compliance](./ITIL-4-COMPLIANCE.md) | **WGU BSCSIA Portfolio**
+---
+📋 **Professional Standards**: [ITIL 4 Service Management Compliance](./ITIL-4-COMPLIANCE.md) | **WGU BSCSIA Portfolio**
